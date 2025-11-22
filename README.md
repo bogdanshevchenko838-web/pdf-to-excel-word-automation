@@ -1,7 +1,7 @@
 <h1 align="center">📄 PDF Invoice Parsing → JSON, Excel & Word Automation</h1>
 
 <p align="center">
-  <b>Rule-based, deterministic PDF invoice parser that extracts invoice data and generates JSON, XLSX and DOCX files — without any AI or ML.</b>
+  <b>Rule-based, deterministic PDF invoice parser that extracts invoice data and generates JSON, XLSX and DOCX files.</b>
 </p>
 
 <p align="center">
