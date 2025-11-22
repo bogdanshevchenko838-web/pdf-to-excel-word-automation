@@ -92,7 +92,7 @@
 ---
 ## ⚙️ Installation
 
-```bash
+```python
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -101,22 +101,23 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 ### Parse a single PDF
-```bash
+```python
 python main.py input/sample.pdf
 ```
 
 ## Parse all PDFs in a folder:
-```bash
+```python
 python main.py input/
 ```
 
 ## Output files appear in:
-```text
+<pre>
 output/
-  invoice_<ID>.json
-  invoice_<ID>.xlsx
-  invoice_<ID>.docx
-```
+  invoice_<span style="color:red;">ID</span>.json
+  invoice_<span style="color:red;">ID</span>.xlsx
+  invoice_<span style="color:red;">ID</span>.docx
+</pre>
+
 
 🧱 Example JSON Output (fragment)
 ```json
