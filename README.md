@@ -112,12 +112,11 @@ python main.py input/
 
 ### Output files appear in:
 ```text
-output/
-  invoice_<ID>.json
-  invoice_<ID>.xlsx
-  invoice_<ID>.docx
+output/  
+  invoice_<span style="color:red">&lt;ID&gt;</span>.json  
+  invoice_<span style="color:red">&lt;ID&gt;</span>.xlsx  
+  invoice_<span style="color:red">&lt;ID&gt;</span>.docx 
 ```
-
 
 ## 🧱 Example JSON Output (fragment)
 ```json
