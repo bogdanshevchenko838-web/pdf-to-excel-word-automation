@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Output files
+output/
+
+# MacOS system files
+.DS_Store
+
+# Word temporary files
+~$*.docx
+
+# Local assets previews
+assets/*.DS_Store
+
+# VSCode settings (optional)
+.vscode/
