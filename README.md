@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/No%20AI-Rule--Based%20Parsing-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Output-JSON%20%7C%20XLSX%20%7C%20DOCX-purple?style=for-the-badge">
 </p>
 
