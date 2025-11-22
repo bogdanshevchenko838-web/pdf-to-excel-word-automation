@@ -70,8 +70,7 @@
 
 ## 📁 Project Structure
 ```
-project/
-│
+pdf-to-excel-word-automation/
 ├── input/ # PDF files to process
 ├── output/ # JSON/XLSX/DOCX results
 │
