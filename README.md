@@ -101,13 +101,13 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 ### Parse a single PDF
-```console
-$ python main.py input/sample.pdf
+```python
+python main.py input/sample.pdf
 ```
 
 ### Parse all PDFs in a folder
-```console
-$ python main.py input/
+```python
+python main.py input/
 ```
 
 ### Output files appear in:
@@ -117,7 +117,6 @@ output/
   invoice_<ID>.xlsx
   invoice_<ID>.docx
 ```
-
 
 
 ## 🧱 Example JSON Output (fragment)
