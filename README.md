@@ -69,8 +69,8 @@
 ---
 
 ## 📁 Project Structure
-
-``` project/
+```
+project/
 │
 ├── input/ # PDF files to process
 ├── output/ # JSON/XLSX/DOCX results
