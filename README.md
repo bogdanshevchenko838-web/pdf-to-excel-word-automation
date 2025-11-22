@@ -101,22 +101,23 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 ### Parse a single PDF
-```python
-python main.py input/sample.pdf
+```console
+$ python main.py input/sample.pdf
 ```
 
-## Parse all PDFs in a folder:
-```python
-python main.py input/
+### Parse all PDFs in a folder
+```console
+$ python main.py input/
 ```
 
-## Output files appear in:
-<pre>
+### Output files appear in:
+```text
 output/
-  invoice_<span style="color:red;">ID</span>.json
-  invoice_<span style="color:red;">ID</span>.xlsx
-  invoice_<span style="color:red;">ID</span>.docx
-</pre>
+  invoice_<ID>.json
+  invoice_<ID>.xlsx
+  invoice_<ID>.docx
+```
+
 
 
 ## 🧱 Example JSON Output (fragment)
