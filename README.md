@@ -69,6 +69,7 @@
 ---
 
 ## 📁 Project Structure
+
 ``` project/
 │
 ├── input/ # PDF files to process
@@ -98,17 +99,24 @@ pip install -r requirements.txt
 ```
 
 ## ▶️ Usage
-Parse a single PDF:
+
+### Parse a single PDF
+```bash
 python main.py input/sample.pdf
+```
 
 ## Parse all PDFs in a folder:
+```bash
 python main.py input/
+```
 
 ## Output files appear in:
+```text
 output/
   invoice_<ID>.json
   invoice_<ID>.xlsx
   invoice_<ID>.docx
+```
 
 🧱 Example JSON Output (fragment)
 ```json
