@@ -119,7 +119,7 @@ output/
 </pre>
 
 
-🧱 Example JSON Output (fragment)
+## 🧱 Example JSON Output (fragment)
 ```json
 {
   "invoice_number": "INV-3337",
